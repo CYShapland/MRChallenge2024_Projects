@@ -10,6 +10,6 @@ The data for the MR Data Challenge can be found [here](https://github.com/CYShap
 
 The submitted entries were are listed below. They can be viewed by clicking the relevant links above.
 
-1. [The role of lipoprotein subfractions in coronary artery disease. Qingyuan Zhao, Jingshu Wang, Zhen Miao, Nancy Zhang, Sean Hennessy, Dylan Small, and Dan Rader](project1.html)
-2. [Testing instrument strength in two-sample MVMR estimation of lipid traits on AMD and Type 2 diabetes. Eleanor Sanderson and Jack Bowden](project2.html)
-3. [Mendelian Randomization Analysis of the Effect of Blood Lipid Fractions on the Risk of Type 2 Diabetes. Apostolos Gkatzionis](project3.html)
+1. [Nismabi Adimaveettil Nisamudheen](project1.html)
+2. [Jyoti Sharma](project2.html)
+3. [Na Zhang](project3.html)
