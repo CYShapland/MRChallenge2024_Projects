@@ -1,0 +1,15 @@
+name: "MRChallenge2014_Projects"
+output_dir: docs
+navbar:
+  title: "MR Data Challenge 2024 Entries"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project 1"
+      href: project1.html
+    - text: "Project 2"
+      href: project2.html
+    - text: "Project 3"
+      href: project3.html
+    - text: "About"
+      href: about.html
