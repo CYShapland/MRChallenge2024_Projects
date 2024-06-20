@@ -2,7 +2,7 @@
 title: Project 1
 ---
 
-* The pdf can be viewed [here](./Projects/Project1.html).
+* The project can be viewed [here](./Projects/Project1.html).
 
 ## 1. Causal Inference and Causal Interaction Effects of Genetic Variants on Major Depressive Disorder: A Machine Learning and Mendelian Randomization Study Across Diverse Ancestries
 

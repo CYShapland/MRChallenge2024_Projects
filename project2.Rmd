@@ -2,7 +2,7 @@
 title: Project 2
 ---
 
-* The pdf can be viewed [here](./Projects/Project2.html).
+* The project can be viewed [here](./Projects/Project2.html).
 
 ## 2. Cross-Ancestral Comparative Study of AUD's Causative Effect on MDD
 
