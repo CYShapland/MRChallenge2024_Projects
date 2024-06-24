@@ -27,7 +27,7 @@ Together, these methodologies provided a thorough examination of the causal path
 
 ## 2. Cross-Ancestral Comparative Study of AUD's Causative Effect on MDD
 
-*Nismabi Adimaveettil Nisamudheen<sup>1</sup>*
+*Jyoti Sharma<sup>1</sup>*
 
 <sup>1</sup>Department of Bioscience & Bioengineering, Indian Institute of Technology Jodhpur 
 
